@@ -1,0 +1,11 @@
+SteamBasicTools/bin/*
+configs.txt
+app.config
+/Configs/*
+/SteamBasicTools/obj/*
+/ZipExtractor/bin/*
+/ZipExtractor/obj/*
+/AutoUpdater.NET/bin/*
+/AutoUpdater.NET/obj/*
+/.vs/*
+/packages/*
