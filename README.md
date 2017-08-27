@@ -33,8 +33,8 @@ Steam Basic Tools          |  Steam Basic Tools
 ## Download
 Just clone this repository:
 
-```
-git clone https://github.com/13dev/steam-basic-tools.git
+```bash
+$ git clone https://github.com/13dev/steam-basic-tools.git
 ```
 
 ## Installation
