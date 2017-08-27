@@ -9,3 +9,5 @@ app.config
 /AutoUpdater.NET/obj/*
 /.vs/*
 /packages/*
+.gitignore
+Configuration.cs
