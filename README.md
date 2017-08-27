@@ -10,11 +10,11 @@ This program helps you to use Steam with awesome features!
 ## Index
 - [Download](#download)
 - [Installation](#installation)
-- [SBT setup](#typo3-setup)
-    - [Configuration](#extension)
-    - [Build](#database)
+- [SBT setup](#setup)
+    - [Configuration](#configuration)
+    - [Build](#build)
 - [License](#license)
-- [Links](#links)
+- [Dependencies](#dependencies)
 
 ## Download
 Just clone this repository:
@@ -29,16 +29,27 @@ git clone https://github.com/13dev/steam-basic-tools.git
 WORKING[...]
 ```
 
+## Configuration
+
+```
+WORKING[...]
+```
+
+## Build
+
+```
+WORKING[...]
+```
+
 ## License
 
 ```
 WORKING[...]
 ```
 
-## Links
+## Dependencies
 
 ```
 WORKING[...]
 ```
-
 
