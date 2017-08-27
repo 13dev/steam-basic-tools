@@ -8,6 +8,7 @@ This program helps you to use Steam with awesome features!
 
 
 ## Index
+- [Preview](#preview)
 - [Download](#download)
 - [Installation](#installation)
 - [SBT setup](#setup)
@@ -15,6 +16,11 @@ This program helps you to use Steam with awesome features!
     - [Build](#build)
 - [License](#license)
 - [Dependencies](#dependencies)
+
+
+## Preview
+Here screenshots of program:
+
 
 ## Download
 Just clone this repository:
