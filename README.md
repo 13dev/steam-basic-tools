@@ -117,10 +117,10 @@ This repository needs 2 dependencies.
 
 * **Newtonsoft.Json**
     
-     Newtonsoft.Json is licensed under MIT:https://github.com/JamesNK/Newtonsoft.Json
+     Newtonsoft.Json is licensed under MIT: https://github.com/JamesNK/Newtonsoft.Json
      
 ## Credits
 
-* Thanks to [Simple Line Icons](simplelineicons.com) for the status image.
-* Thanks to @SteamRE for the steam4NET.
+* Thanks to [Simple Line Icons](http://simplelineicons.com) for the status image.
+* Thanks to [@SteamRE](https://github.com/SteamRE) for the steam4NET.
 
