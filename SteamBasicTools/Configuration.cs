@@ -11,10 +11,7 @@ namespace SteamBasicTools
 		public const string CHECK_UPDATES_URL = "YOUR_UPDATE_XML_LINK";
 		public const string DB_TABLE = "TABLE_NAME";
 		public const string DB_CONNECTION =
-			"Server=localhost;" +
-			"Database=database_name;" +
-			"Uid=username;" +
-			"Pwd=password_username";
+			"Server=localhost;Database=database_name;Uid=username;Pwd=password_username";
 		//Remember put wildcard '%' to remote mysql
 	}
 }
