@@ -14,7 +14,8 @@ This program helps you to use Steam with awesome features!
 - [SBT setup](#setup)
     - [Configuration](#configuration)
     - [Dependencies](#dependencies)
-- [License](#license)
+- [Licenses](#Licenses)
+- [Credits](#Credits)
 
 
 
@@ -105,7 +106,7 @@ This repository needs 2 dependencies.
 * **Newtonsoft.Json**
     Download, and build, copy dll and add it as a reference: https://github.com/JamesNK/Newtonsoft.Json
 
-## License's
+## Licenses
 
 * **Steam4NET**
 
